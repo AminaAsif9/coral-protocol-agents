@@ -1,2 +1,2 @@
 # coral-protocol-agents
-Agents for Coral Protocol Hackathon
+Custom built coralised agents for Coral Protocol | Hackathon
