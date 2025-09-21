@@ -31,4 +31,4 @@ pip install uv || fatal "Failed to install uv"
 export PYTHONPATH="$PROJECT_DIR:$PYTHONPATH"
 
 echo "Starting uvicorn server..."
-uv run uvicorn main:app --reload --port 8001
+uv run uvicorn main:app --reload --port 8000
